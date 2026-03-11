@@ -28,4 +28,5 @@ The engine follows a standard financial exchange workflow:
     * **Spread Analysis:** Monitors the gap between the best Bid and best Ask.
 
 ## 🏁 Quick Start
+```bash
 python main.py
